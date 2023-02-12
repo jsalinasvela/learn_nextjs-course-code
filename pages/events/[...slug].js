@@ -66,7 +66,7 @@ export async function getServerSideProps (context) {
         year: numYear,
         month: numMonth,
       },
-    },
+    }
   };
 }
 
